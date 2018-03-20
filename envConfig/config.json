@@ -1,0 +1,17 @@
+{     "browser" :"{\"chrome\": \"chrome\",\"ie\": \"ie\",\"firefox\": \"firefox\"}",
+      "Environment" :"{\"url\": \"http://192.168.1.28:8080/#/\"}",
+      "Username" :"{\"username\": \"admin\"}",
+      "Password" :"{\"password\": \"admin\"}",
+      "BranchName" : "TestBranch",
+      "BranchCode" : "TESTBC",
+      "StaffName" : "TestStaff",
+      "MinLengthBranchName" : "ABC",
+      "MaxLengthBranchName" : "ABCDEFGHIJKLMNOPQRSTU",
+      "BranchNamePattern" : "ABCD@12",
+      "MinLengthBranchCode" : "A",
+      "MaxLengthBranchCode" : "ABCDEFGHIJKLMN",
+      "BranchCodePattern" : "ABCD@12",
+      "MinLengthStaffCode" : "",
+      "MaxLengthStaffCode" : "ABCDEFGHIJKLMNOABCDEFGHIJKLMNOABCDEFGHIJKLMNOABCDEFGHIJKLMNO",
+      "StaffCodePattern" : "ABCD@12"
+}
